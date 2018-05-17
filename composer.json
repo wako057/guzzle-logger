@@ -1,0 +1,23 @@
+{
+    "name": "wako/guzzlelogger",
+    "description": "Allow guzzle to log in json format",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/psr7": "^1.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Interencheres": "src/"
+        }
+    }
+    "license": "public",
+    "authors": [
+        {
+            "name": "Gregory Gerard",
+            "email": "wako057@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
+&
