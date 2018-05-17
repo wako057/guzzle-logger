@@ -1,5 +1,5 @@
 {
-    "name": "wako/guzzlelogger",
+    "name": "wako057/guzzlelogger",
     "description": "Allow guzzle to log in json format",
     "type": "library",
     "require": {
